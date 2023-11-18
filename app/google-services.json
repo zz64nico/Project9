@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313656883649",
+    "project_id": "note-c0d32",
+    "storage_bucket": "note-c0d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313656883649:android:3ad30b81c338de9aaa5740",
+        "android_client_info": {
+          "package_name": "com.example.note_kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_nDH9iLzHXc2hkxb7p14Hgh1R0Q-SkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
